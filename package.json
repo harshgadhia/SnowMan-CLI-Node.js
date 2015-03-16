@@ -1,0 +1,16 @@
+{
+  "name": "snowman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cli.js",
+  "dependencies": {
+    "inquirer": "^0.8.0",
+    "yargs": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harsh gadhia",
+  "license": "GNU Public"
+}

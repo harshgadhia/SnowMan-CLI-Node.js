@@ -1,0 +1,19 @@
+*****************************************************************************
+|                           Welcome to Snowman Game                         |
+|___________________________________________________________________________|
+|                                    _==_ _                                 |
+|                                  _,(",)|_|                                |
+|                                   \/. \-|                                 |
+|                                 __( :  )|___                              |
+|                               ~~~~~~~~~~~~~~~~                            |
+|___________________________________________________________________________|
+|                                                                           |
+| Instructions:                                                             |
+|   1) The game displays some blank spaces which corresponds to a word.     |
+|   2) You have to guess a letter one at a time.                            |
+|   3) If you guess it right, it is filled at all the correct positons.     |
+|   4) If you guess it wrong, the program draws an element of a snowman.    |
+|   5) Only 5 wrong guesses are allowed.                                    |
+|   6) If you guess the word right, you Win!                                |
+|                                                                           |
+|___________________________________________________________________________|
